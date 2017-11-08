@@ -1,0 +1,6 @@
+/home/chomatek/eclipse-workspace/orders/src/main/java/orders/entities/Product.java
+/home/chomatek/eclipse-workspace/orders/src/main/java/orders/aggregates/Order.java
+/home/chomatek/eclipse-workspace/orders/src/main/java/orders/entities/Client.java
+/home/chomatek/eclipse-workspace/orders/src/main/java/orders/services/OrderService.java
+/home/chomatek/eclipse-workspace/orders/src/main/java/orders/Main.java
+/home/chomatek/eclipse-workspace/orders/src/main/java/orders/services/ClientService.java
